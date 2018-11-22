@@ -2,8 +2,6 @@
 
 //版本3
 
-//V4
-
 using Microsoft.Owin;
 using Owin;
 
