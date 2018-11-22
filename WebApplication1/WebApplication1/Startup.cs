@@ -1,8 +1,4 @@
-﻿//hui
-
-//版本3
-
-using Microsoft.Owin;
+﻿using Microsoft.Owin;
 using Owin;
 
 [assembly: OwinStartupAttribute(typeof(WebApplication1.Startup))]
